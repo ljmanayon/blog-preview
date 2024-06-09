@@ -27,12 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](/screenshots/desktop.png)
-![Desktop](/screenshots/mobile.png)
-![Desktop](/screenshots/active.png)
+![Mobile](/screenshots/mobile.png)
+![Hover](/screenshots/active.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github/ljmanayon/blow-preview](https://github.com/ljmanayon/blog-preview)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
