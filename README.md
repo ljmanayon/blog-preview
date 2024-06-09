@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github/ljmanayon/blow-preview](https://github.com/ljmanayon/blog-preview)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github/blog-preview](https://ljmanayon.github.io/blog-preview/)
 
 ## My process
 
